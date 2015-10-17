@@ -1,3 +1,3 @@
 test1
-line 2 addede - conflict BR2
+line 2 addede added conflict 2 in  BR2
 added line 3 to br2
